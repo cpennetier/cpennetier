@@ -138,3 +138,4 @@ I am a research scientist and systems builder with a PhD in operations research.
 My work spans deterministic simulation, reinforcement learning, multi-agent systems, structured generation, optimization, and decision evaluation. I care about systems whose claims survive exact measurement—and about results that state clearly both what they establish and what they refute.
 
 > **Build the world first. Let intelligence compete inside it. Measure what it actually changed.**
+
