@@ -1,6 +1,6 @@
 # Roadmap
 
-Each item says what it brings and where its result goes. `kernel run R<n>` builds an item; a pushed result waits under Results not yet used until it is used.
+Each item says what it brings and where its result goes. A finished result waits under Results not yet used until it is used.
 
 ## Now
 
